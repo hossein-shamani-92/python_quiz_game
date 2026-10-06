@@ -147,7 +147,7 @@ python main.py
 ```text
 Do you want to open admin mode? yes/no: no
 
-What's your name? mehrsam
+What's your name? hossein
 
 Welcome
 
@@ -165,7 +165,7 @@ Wrong
 
 Your score is: 0 out of 3
 
-Keep practicing, mehrsam
+Keep practicing, hossein
 ```
 
 ## Screenshot
@@ -194,7 +194,7 @@ Keep practicing, mehrsam
 * [x] Add admin mode
 * [ ] Add more quiz questions
 * [ ] Add difficulty
-* [x] Add a timer
+* [ ] Add a timer
 
 ## Contributing
 
@@ -202,4 +202,4 @@ Keep practicing, mehrsam
 
 ## Author
 
-Created by [Mehrsam Bahmanyar](https://github.com/Genius-Progarmmer)
+Created by [Hossein Shamani](https://github.com/hossein-shamani-92)
